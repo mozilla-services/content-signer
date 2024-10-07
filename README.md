@@ -1,3 +1,4 @@
+Using personal email
 Change signing key to mozilla email key
 SIGN USING ALIAS
 TESTING SIGNED COMMITS
