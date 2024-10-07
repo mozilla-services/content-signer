@@ -1,3 +1,4 @@
+SIGN USING ALIAS
 TESTING SIGNED COMMITS
 # Autograph
 Autograph is a cryptographic signature service that implements
